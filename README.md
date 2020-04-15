@@ -1,4 +1,4 @@
-# Clima (live weather app) ☁
+# Live Weather App
 
 
 
